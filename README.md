@@ -15,4 +15,4 @@
 </p>
  
 [![card](https://github-readme-stats.vercel.app/api?username=cauansousa&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Snake animation](https://github.com/bruno-gs/bruno-gs/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/bruno-gs/bruno-gs/blob/output/github-contribution-grid-snake.svg)->
