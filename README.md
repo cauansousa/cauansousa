@@ -1,8 +1,7 @@
 ### Hi there, I´m Cauan Sousa 👋
 
 [![card](https://github-readme-stats.vercel.app/api?username=cauansousa&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a src"https://www.instagram.com/icg.sousa/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 
 <!--
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=cauansousa&hide=html&layout=compact&theme=default)](https://github.com/auraghazra/github-readme-stats)
