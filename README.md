@@ -7,7 +7,7 @@
 </p>
   
 <p align="left">  
-🔭 Faço parte da RoboFei@atHome, atual campeã mundial e cinco vezes campeã latino americano.
+🔭 Faço parte da RoboFEI@Home, atual campeã mundial e cinco vezes campeã latino americano.
 </p>
   
 <p align="left"> 
