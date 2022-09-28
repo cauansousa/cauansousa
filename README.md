@@ -1,4 +1,7 @@
 ### Hi there, I´m Cauan Sousa 👋
+
+[![card](https://github-readme-stats.vercel.app/api?username=cauansousa&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **cauansousa/cauansousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
