@@ -6,10 +6,10 @@
 <body>
   <div class="container">
     <div class="profile-info">
-      <h2>Olá, meu nome é <strong>Cauan Sousa!</strong></h2>
-      <p>Estou cursando Ciência da computação pela FEI.</p>
-      <p>Faço parte da RoboFEI@Home, atual campeã mundial e cinco vezes campeã latino americano.</p>
-      <p>Gosto de trabalhar com visão computacional e tudo que a envolve.</p>
+      <h2>Hello, my name is <strong>Cauan Sousa!</strong></h2>
+      <p>I am currently pursuing a degree in Computer Science at FEI.</p>
+      <p>I am a member of RoboFEI@Home, the 2022 world champion and five-time Latin American champion.</p>
+      <p>I find great joy in the realm of computer vision and its connections to artificial intelligence and robotics.</p>
     </div>
   </div>
   <div class="stats-card">
