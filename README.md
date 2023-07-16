@@ -5,9 +5,6 @@
 </head>
 <body>
   <div class="container">
-    <div class="profile-image">
-      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador iuriCode">
-    </div>
     <div class="profile-info">
       <h2>Olá, meu nome é <strong>Cauan Sousa!</strong></h2>
       <p>Estou cursando Ciência da computação pela FEI.</p>
