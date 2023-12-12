@@ -12,10 +12,5 @@
       <p>I find great joy in the realm of computer vision and its connections to artificial intelligence and robotics.</p>
     </div>
   </div>
-  <div class="stats-card">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=cauansousa&theme=radical&show_icons=true" alt="GitHub Stats Card">
-    </a>
-  </div>
 </body>
 </html>
