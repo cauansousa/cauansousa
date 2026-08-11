@@ -15,9 +15,9 @@
 ## `whoami`
 
 Software Engineer from São Paulo 🇧🇷, building at the crossroads of **AI, automation, and product**.  
-Co-founder of **Utopia Digital** — an AI platform that automates WhatsApp sales flows (SDR, SAC, Closer) using multi-agent architectures.
+Co-founder of **Utopia Digital**, an AI platform that automates WhatsApp sales flows (SDR, SAC, Closer) using multi-agent architectures.
 
-**Open to freelance projects** — LLM agents, SaaS, computer vision pipelines, data engineering.
+**Open to freelance projects**: LLM agents, SaaS, computer vision pipelines, data engineering.
 
 ```python
 cauan = {
